@@ -1,4 +1,5 @@
-#Punto 2.a interseccion f(x)-g(x)
+#Parcial 1
+#2.a interseccion f(x)-g(x)
 
 f=function(x){tan(pi*x)}
 g=function(x){sin(pi*x)}
