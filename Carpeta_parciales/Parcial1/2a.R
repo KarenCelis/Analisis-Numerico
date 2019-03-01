@@ -19,4 +19,4 @@ interseccion= function(x0,x1,E,F1){
     sigF<-x1-f(x1)*(x1-x0)/(f(x1)-f(x0))
   }
 }
-interseccion(-2,1,0.0000000011,F1)
+interseccion(-2,1,0.000000001,F1)
