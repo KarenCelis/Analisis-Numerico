@@ -1,3 +1,4 @@
+#Punto 3
 install.packages("Matrix")#instalar paquete 
 library(Matrix) 
 install.packages("PolynomF")#instalar paquete 
@@ -25,7 +26,6 @@ curve(polyAjuste,add=T)
 
 z = seq(0, 1, by = 0.001)
 q = 1:length(z)
-
 for (i in z) {
   q[i] = polyAjuste(i)
 }
