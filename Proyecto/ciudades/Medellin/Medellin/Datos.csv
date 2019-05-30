@@ -1,0 +1,26 @@
+-BEGIN HEADER-
+NASA/POWER SRB/FLASHFlux/MERRA2/ 0.5 x 0.5 Degree Climatologies 
+22-year Additional Solar Parameter Monthly & Annual Climatologies (July 1983 - June 2005), 30-year Meteorological and Solar Monthly & Annual Climatologies (January 1984 - December 2013) 
+Location: Latitude  6.2687   Longitude -75.7365 
+Elevation from MERRA-2: Average for 1/2x1/2 degree lat/lon region = 1812.23 meters   Site = na 
+Climate zone: na (reference Briggs et al: http://www.energycodes.gov) 
+Value for missing model data cannot be computed or out of model availability range: -999 
+Parameter(s): 
+SG_HR_SET_ANG SRB/FLASHFlux 1/2x1/2 Sunset Hour Angle (Degrees) 
+SG_DAY_COZ_ZEN_AVG SRB/FLASHFlux 1/2x1/2 Daylight Average Of Hourly Cosine Solar Zenith Angles (dimensionless) 
+SG_MAX_HRZ_ANG SRB/FLASHFlux 1/2x1/2 Maximum Solar Angle Relative To The Horizon (Degrees) 
+SG_DEC_AVG SRB/FLASHFlux 1/2x1/2 Declination (Degrees) 
+SRF_ALB SRB/FLASHFlux 1/2x1/2 Surface Albedo (dimensionless) 
+DNR SRB/FLASHFlux 1/2x1/2 Direct Normal Radiation (kW-hr/m^2/day) 
+DIFF SRB/FLASHFlux 1/2x1/2 Diffuse Radiation On A Horizontal Surface (kW-hr/m^2/day) 
+ALLSKY_TOA_SW_DWN SRB/FLASHFlux 1/2x1/2 Top-of-atmosphere Insolation (kW-hr/m^2/day) 
+-END HEADER-
+LAT,LON,PARAMETER,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,ANN
+6.26871,-75.73649,SRF_ALB,              0.19,              0.17,              0.18,              0.16,              0.15,              0.16,              0.15,              0.15,              0.17,              0.17,              0.18,              0.19,              0.17
+6.26871,-75.73649,ALLSKY_TOA_SW_DWN,              9.36,              9.94,             10.40,             10.46,             10.19,              9.97,             10.03,             10.26,             10.32,             10.01,              9.46,              9.12,              9.96
+6.26871,-75.73649,DIFF,              1.93,              2.11,              2.28,              2.32,              2.22,              2.13,              2.12,              2.23,              2.29,              2.16,              1.99,              1.89,              2.14
+6.26871,-75.73649,DNR,              3.99,              3.66,              3.35,              2.85,              3.25,              3.69,              4.17,              3.86,              3.32,              3.23,              3.52,              3.67,              3.55
+6.26871,-75.73649,SG_DEC_AVG,  -20.77,  -12.39,   -1.81,    9.71,   18.83,   23.07,   21.22,   13.79,    3.09,   -8.45,  -18.18,  -22.90,-999
+6.26871,-75.73649,SG_DAY_COZ_ZEN_AVG,    0.55,    0.60,    0.63,    0.59,    0.58,    0.58,    0.58,    0.64,    0.63,    0.61,    0.57,    0.59,-999
+6.26871,-75.73649,SG_MAX_HRZ_ANG,   62.96,   71.34,   81.92,   86.56,   77.44,   73.20,   75.04,   82.48,   86.82,   75.28,   65.55,   60.84,-999
+6.26871,-75.73649,SG_HR_SET_ANG,   87.61,   88.62,   89.80,   91.08,   92.15,   92.68,   92.45,   91.54,   90.34,   89.06,   87.93,   87.34,-999

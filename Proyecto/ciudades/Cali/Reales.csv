@@ -1,0 +1,12 @@
+-BEGIN HEADER-
+NASA/POWER SRB/FLASHFlux/MERRA2/ 0.5 x 0.5 Degree Climatologies 
+22-year Additional Solar Parameter Monthly & Annual Climatologies (July 1983 - June 2005), 30-year Meteorological and Solar Monthly & Annual Climatologies (January 1984 - December 2013) 
+Location: Latitude  3.4337   Longitude -76.5271 
+Elevation from MERRA-2: Average for 1/2x1/2 degree lat/lon region = 1226.15 meters   Site = na 
+Climate zone: na (reference Briggs et al: http://www.energycodes.gov) 
+Value for missing model data cannot be computed or out of model availability range: -999 
+Parameter(s): 
+DNR SRB/FLASHFlux 1/2x1/2 Direct Normal Radiation (kW-hr/m^2/day) 
+-END HEADER-
+LAT,LON,PARAMETER,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,ANN
+3.43371,-76.52709,DNR,              3.10,              3.06,              2.91,              2.74,              2.85,              2.97,              3.33,              3.01,              2.75,              2.58,              2.76,              2.87,              2.91
